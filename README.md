@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning 
+Aspiring Data Scientist | Python & ML enthusiast | Building practical projects | Exploring AI, data analysis, and web applications. 
 
 
 ## 🌐 Socials:
